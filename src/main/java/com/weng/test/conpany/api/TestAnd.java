@@ -66,4 +66,9 @@ public class TestAnd {
         }
     }
 
+    @Test
+    public void fun6() {
+        System.out.println("fun666");
+    }
+
 }
