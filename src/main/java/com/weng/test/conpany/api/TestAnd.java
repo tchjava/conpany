@@ -65,5 +65,6 @@ public class TestAnd {
             System.out.println(s);
         }
     }
-
+    
+    //补充fun6
 }
