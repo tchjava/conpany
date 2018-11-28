@@ -66,6 +66,8 @@ public class TestAnd {
         }
     }
 
+    //补充fun6
+
     @Test
     public void fun6() {
         System.out.println("fun666");
